@@ -29,4 +29,4 @@ For other kinds of options, just use the help command.
 ```
 ## Authors
 
-* **Alessandro Ripa** - *Initial work* - [sshutility](https://github.com/AKAlex92/sshutility/)
+* **Alessandro Ripa (AKAlex92)** - *Initial work* - [sshutility](https://github.com/AKAlex92/sshutility/)
