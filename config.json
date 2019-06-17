@@ -1,0 +1,7 @@
+{
+        "servers":
+        [
+                {"nome":"SERVER NAME 1","host":"XX.XXX.XXX.XX","port":"1234","user":"foo","password":"abcdefg"},
+                {"nome":"SERVER NAME 2","host":"YY.YYY.YYY.YY","port":"5678","user":"bar","password":"hilmnop"}
+		    ]
+}
