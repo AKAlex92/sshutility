@@ -5,7 +5,7 @@ PROGRAM="Ssh utility"
 VERSION="1.0"
 YEAR="2019"
 DEVELOPER="AKAlex92"
-DEBUG=true
+DEBUG=false
 #
 # first we need to check if sshpass is installed (it's required)
 if ! [ -x "$(command -v sshpass)" ]; then
